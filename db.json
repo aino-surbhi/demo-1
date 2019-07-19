@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Hello world"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
   ],
   "comments": [
@@ -18,6 +26,6 @@
     }
   ],
   "profile": {
-    "name": "Hello world"
+    "name": "typicode"
   }
 }
